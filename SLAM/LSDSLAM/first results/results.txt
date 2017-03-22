@@ -1,0 +1,20 @@
+-RESULT 1:
+	KFUsageWeight 			4.0
+	KFDistWeight 			3.0
+
+-RESULT 2:
+	KFUsageWeight 			10.0
+	KFDistWeight 			7.0
+
+-RESULT 3:
+	KFUsageWeight 			20.0
+	KFDistWeight 			20.0
+
+-RESULT 3:
+	KFUsageWeight 			20.0
+	KFDistWeight 			20.0
+	useAffineLightningEstimation	checked
+
+-RESULT 1:
+	KFUsageWeight 			7.0
+	KFDistWeight 			5.0

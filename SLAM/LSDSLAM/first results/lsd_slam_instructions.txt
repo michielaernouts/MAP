@@ -1,0 +1,12 @@
+Launch the lsd_slam viewer:
+
+    rosrun lsd_slam_viewer viewer
+
+Launch the lsd_slam main ros node:
+
+    rosrun lsd_slam_core live_slam image:=/image_raw camera_info:=/camera_info
+
+Play the sequence:
+
+    rosbag play <bagfile.bag>
+
